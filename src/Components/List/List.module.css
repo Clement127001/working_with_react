@@ -1,0 +1,10 @@
+.list ol
+{
+    margin-block:2rem;
+}
+.list ol li
+{
+    font-family: sans-serif;
+    font-size: 18px;
+   margin-block: 0.5rem; 
+}

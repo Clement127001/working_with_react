@@ -1,0 +1,21 @@
+.table
+{
+    border-collapse: collapse;
+    border:2px solid;
+}
+
+.table thead tr,
+.table tbody tr{
+    width: fit-content;
+}
+
+.table thead tr th,
+.table tbody tr td
+{
+    padding:1rem;
+    border:2px solid;
+}
+
+.table tbody tr li{
+    list-style: none;
+}
